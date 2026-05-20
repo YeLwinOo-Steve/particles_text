@@ -2,6 +2,12 @@
 
 Interactive Flutter demo: text is rasterized to pixels, sampled into particles, then animated letter-by-letter into place. Hover or drag to scatter them; they spring back.
 
+## Demo
+
+<p align="center">
+  <video src="showcase.mov" controls width="100%"></video>
+</p>
+
 ## Pipeline
 
 <p align="center">
