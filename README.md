@@ -1,6 +1,7 @@
 # particles_text
 
-Interactive Flutter demo: text is rasterized to pixels, sampled into particles, then animated letter-by-letter into place. Hover or drag to scatter them; they spring back.
+Interactive Flutter demo where text is converted into particles and animated letter-by-letter. 
+Hover or drag to scatter them & they spring back into place.
 
 ## Demo
 
