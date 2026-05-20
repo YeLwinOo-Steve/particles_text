@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+const kGitHubRepoUrl = 'https://github.com/YeLwinOo-Steve/particles_text';
+
 const kPanelWidth = 280.0;
 const kPanelPadding = 24.0;
 const kPanelBgColor = Color(0xFF0C0C10);
