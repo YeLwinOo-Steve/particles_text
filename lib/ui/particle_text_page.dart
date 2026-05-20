@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:simple_icons/simple_icons.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../config.dart';
@@ -95,7 +94,7 @@ class _ParticleTextPageState extends State<ParticleTextPage> {
                     top: 12,
                     right: 12,
                     child: _CanvasIconButton(
-                      icon: SimpleIcons.github,
+                      icon: Icons.code,
                       onTap: _openGitHub,
                     ),
                   ),
